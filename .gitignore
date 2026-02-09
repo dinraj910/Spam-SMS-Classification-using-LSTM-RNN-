@@ -1,3 +1,15 @@
 # ignore csv
 
-*.csv   
+*.csv  
+
+#ignore excel
+
+*.xlsx
+
+#ignore model
+
+*.h5
+*.pkl
+#ignore log
+
+*.log
