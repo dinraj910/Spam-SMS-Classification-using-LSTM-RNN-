@@ -167,6 +167,24 @@ This isn't just another toy demo — it's a **production-grade inference pipelin
 <!-- Live Demo Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" height="30" /> Live Demo
 
+![alt text](screenshots/1.png)
+
+![alt text](screenshots/2.png)
+
+![alt text](screenshots/3.png)
+
+![alt text](screenshots/4.png)
+
+![alt text](screenshots/5.png)
+
+![alt text](screenshots/6.png)
+
+![alt text](screenshots/7.png)
+
+![alt text](screenshots/8.png)
+
+![alt text](screenshots/9.png)
+
 <table>
 <tr>
 <td align="center" width="50%">
