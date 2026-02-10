@@ -10,9 +10,9 @@ WORKDIR /app
 
 COPY requirements.txt .
 
-# Install the dependencies
+# Install the dependencies with extended timeout and retries
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --timeout=300 --retries=5 -r requirements.txt
 
 # Copy the rest of the application code to the working directory
 
@@ -24,4 +24,4 @@ EXPOSE 8501
 
 # Command to run the Streamlit app
 
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "app/app.py", "--server.port=8501", "--server.address=0.0.0.0"]

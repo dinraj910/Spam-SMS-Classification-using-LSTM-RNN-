@@ -1,0 +1,12 @@
+# Ignore notebook and development files
+notebook/
+screenshots/
+.git/
+.gitignore
+*.md
+*.ipynb
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
